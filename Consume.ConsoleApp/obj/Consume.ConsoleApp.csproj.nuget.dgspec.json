@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\emre.sanli\\Desktop\\RabbitMQ\\Consume.ConsoleApp\\Consume.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\emre.sanli\\Desktop\\RabbitMQ\\Consume.ConsoleApp\\Consume.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\emre.sanli\\Desktop\\RabbitMQ\\Consume.ConsoleApp\\Consume.ConsoleApp.csproj",
+        "projectName": "Consume.ConsoleApp",
+        "projectPath": "C:\\Users\\emre.sanli\\Desktop\\RabbitMQ\\Consume.ConsoleApp\\Consume.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\emre.sanli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emre.sanli\\Desktop\\RabbitMQ\\Consume.ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\emre.sanli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

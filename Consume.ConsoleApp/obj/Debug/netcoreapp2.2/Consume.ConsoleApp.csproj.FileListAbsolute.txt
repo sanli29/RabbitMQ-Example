@@ -1,0 +1,11 @@
+C:\Users\emre.sanli\Desktop\RabbitMQ\Consume.ConsoleApp\bin\Debug\netcoreapp2.2\Consume.ConsoleApp.deps.json
+C:\Users\emre.sanli\Desktop\RabbitMQ\Consume.ConsoleApp\bin\Debug\netcoreapp2.2\Consume.ConsoleApp.runtimeconfig.json
+C:\Users\emre.sanli\Desktop\RabbitMQ\Consume.ConsoleApp\bin\Debug\netcoreapp2.2\Consume.ConsoleApp.runtimeconfig.dev.json
+C:\Users\emre.sanli\Desktop\RabbitMQ\Consume.ConsoleApp\bin\Debug\netcoreapp2.2\Consume.ConsoleApp.dll
+C:\Users\emre.sanli\Desktop\RabbitMQ\Consume.ConsoleApp\obj\Debug\netcoreapp2.2\Consume.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\emre.sanli\Desktop\RabbitMQ\Consume.ConsoleApp\obj\Debug\netcoreapp2.2\Consume.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\emre.sanli\Desktop\RabbitMQ\Consume.ConsoleApp\obj\Debug\netcoreapp2.2\Consume.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\emre.sanli\Desktop\RabbitMQ\Consume.ConsoleApp\obj\Debug\netcoreapp2.2\Consume.ConsoleApp.AssemblyInfo.cs
+C:\Users\emre.sanli\Desktop\RabbitMQ\Consume.ConsoleApp\bin\Debug\netcoreapp2.2\Consume.ConsoleApp.pdb
+C:\Users\emre.sanli\Desktop\RabbitMQ\Consume.ConsoleApp\obj\Debug\netcoreapp2.2\Consume.ConsoleApp.dll
+C:\Users\emre.sanli\Desktop\RabbitMQ\Consume.ConsoleApp\obj\Debug\netcoreapp2.2\Consume.ConsoleApp.pdb
